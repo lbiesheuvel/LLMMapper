@@ -1,0 +1,7 @@
+*.pyc
+.vscode
+*.csv
+*.xlsx
+*.txt
+.venv
+*.ipynb
